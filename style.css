@@ -1,0 +1,52 @@
+.letra {
+    font-size: 250%;
+    text-align: center;
+    font: 'Times New Roman', Times, serif, bold, italic;
+}
+
+.letra2{
+    font-size: 130%;
+    text-align: center;
+    font: 'Times New Roman', Times, serif, bold, italic;
+}
+
+body {
+    background-color: #b98f3a;
+}
+
+hr{
+    background-color: black;
+    height: 3px;
+}
+
+.imagem {
+    height: auto;
+    width: 24%;
+}
+
+.imagem2{
+    height: 50%;
+    width: 50%;
+}
+
+.alinhamento{
+    text-align: center;
+}
+
+.bio{
+    font-size: 200%;
+    text-align: start;
+    font: 'Times New Roman', Times, serif, bold, italic;
+}
+
+.textobio{
+    font-size: 180%;
+    text-align: center;
+    font: 'Times New Roman', Times, serif, bold, italic;
+}
+
+.retorno{
+    text-align: center;
+    font-size: 130%;
+    font: 'Times New Roman', Times, serif, bold, italic;
+}
